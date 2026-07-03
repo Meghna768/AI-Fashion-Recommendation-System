@@ -1,0 +1,13 @@
+# Dataset images
+Backend/Images/
+
+# Uploaded images
+Backend/uploads/
+
+# React
+frontend/node_modules/
+frontend/dist/
+
+# Python
+Backend/__pycache__/
+*.pyc

@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.git
+venv
+.env
+fashion-ui/node_modules
